@@ -52,3 +52,6 @@ Instalación Paso a Paso
 		Plataforma principal: http://127.0.0.1:8000/
 		Panel de administración: http://127.0.0.1:8000/admin/
 
+7. Credenciales
+	Usuario: inacap
+	Password: inacap
