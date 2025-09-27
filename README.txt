@@ -1,7 +1,6 @@
 PlataformaRetos/
-├── manage.py                 # Script de gestión de Django
-├── db.sqlite3               # Base de datos (se crea automáticamente)
-├── venv/                    # Entorno virtual (no subir a Git)
+├── manage.py                # Script de gestión de Django
+├── db.sqlite3               # Base de datos
 ├── plataforma_retos/        # Configuración del proyecto
 │   ├── settings.py          # Configuración principal
 │   ├── urls.py              # URLs del proyecto
@@ -51,4 +50,5 @@ Instalación Paso a Paso
 6. Acceder a la plataforma
 	Abre tu navegador y ve a:
 		Plataforma principal: http://127.0.0.1:8000/
+
 		Panel de administración: http://127.0.0.1:8000/admin/
