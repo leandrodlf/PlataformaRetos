@@ -1,16 +1,16 @@
 PlataformaRetos/
-├── manage.py                # Script de gestión de Django
-├── db.sqlite3               # Base de datos
-├── plataforma_retos/        # Configuración del proyecto
-│   ├── settings.py          # Configuración principal
-│   ├── urls.py              # URLs del proyecto
+├── manage.py               
+├── db.sqlite3               
+├── plataforma_retos/       
+│   ├── settings.py          
+│   ├── urls.py              
 │   └── ...
-└── retos/                   # Aplicación principal
-    ├── models.py            # Modelos de datos
-    ├── views.py             # Lógica de la aplicación
-    ├── urls.py              # URLs de la aplicación
-    ├── templates/           # Plantillas HTML
-    └── management/commands/ # Comandos personalizados
+└── retos/                  
+    ├── models.py           
+    ├── views.py             
+    ├── urls.py              
+    ├── templates/           
+    └── management/commands/ 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Descripción:
 Plataforma web educativa desarrollada con Django para resolver retos matemáticos, lógicos y sudokus. Incluye sistema de puntuación, ranking de usuarios y panel de administración.
@@ -55,4 +55,5 @@ Instalación Paso a Paso
 7. Credenciales
 	Usuario: inacap
 	Password: inacap
+
 
