@@ -27,7 +27,7 @@ Instalación Paso a Paso
 1. Descargar el proyecto
 	Coloca la carpeta PlataformaRetos en el Escritorio.
 
-2. Abrir PowerShell y navegar al proyecto (o en su defecto ejecutar la terminal en la carpeta correspondiente).
+2. Abrir la terminal y navegar al proyecto (o en su defecto ejecutar la terminal en la carpeta correspondiente).
 	Windows/Linux: cd ~/Desktop/PlataformaRetos
 
 3. Crear y activar entorno virtual
@@ -55,3 +55,4 @@ Instalación Paso a Paso
 7. Credenciales
 	Usuario: inacap
 	Password: inacap
+
